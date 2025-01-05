@@ -38,9 +38,3 @@ Dedicated and detail-oriented professional with a strong background
 
 - **Technical Advisor** | The Afghanistan Cancer Foundation (Jul 2020 - Dec 2020)
   - Developed construction management plans and monitored activities.
-
-# Connect with Me
-
-- [![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/ahmad-hamed-dehzad-2625b559)
-- [![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/@ahdehzad)
-- [![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/a.h.d4life)
